@@ -26,6 +26,6 @@ This repository contains my practical work and projects related to data analysis
 
 ## Career Objective
 
-To start my career in a data-focused role where I can apply my skills in Excel, MySQL, and Python to analyze data, prepare reports, and support business decisions.
+To start my career in a data-focused role where I can apply my skills in Excel, MySQL, Power BI, NumPy and Pandas to analyze data, prepare reports, and support business decisions.
 - Business Reporting
 
